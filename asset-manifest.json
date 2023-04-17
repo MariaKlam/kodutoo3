@@ -1,18 +1,18 @@
 {
-  "files": {
-    "main.css": "/kodutoo3/static/css/main.ec4d90cd.css",
-    "main.js": "/kodutoo3/static/js/main.098219ea.js",
-    "static/js/787.9701b034.chunk.js": "/kodutoo3/static/js/787.9701b034.chunk.js",
-    "static/media/pilt1.jpg": "/kodutoo3/static/media/pilt1.0d6091487e9b8ff161b7.jpg",
-    "static/media/pilt2.jpg": "/kodutoo3/static/media/pilt2.8a8c7f11ed0be3595552.jpg",
-    "static/media/pilt3.jpg": "/kodutoo3/static/media/pilt3.247d5201a6b0200d74f7.jpg",
-    "index.html": "/kodutoo3/index.html",
-    "main.ec4d90cd.css.map": "/kodutoo3/static/css/main.ec4d90cd.css.map",
-    "main.098219ea.js.map": "/kodutoo3/static/js/main.098219ea.js.map",
-    "787.9701b034.chunk.js.map": "/kodutoo3/static/js/787.9701b034.chunk.js.map"
-  },
-  "entrypoints": [
-    "static/css/main.ec4d90cd.css",
-    "static/js/main.098219ea.js"
-  ]
+  "main.css": "/kodutoo3/static/css/main.ffb43444.chunk.css",
+  "main.js": "/kodutoo3/static/js/main.0ea7d04f.chunk.js",
+  "main.js.map": "/kodutoo3/static/js/main.0ea7d04f.chunk.js.map",
+  "static/js/1.3f5a8f4c.chunk.js": "/kodutoo3/static/js/1.3f5a8f4c.chunk.js",
+  "static/js/1.3f5a8f4c.chunk.js.map": "/kodutoo3/static/js/1.3f5a8f4c.chunk.js.map",
+  "static/js/2.b56db25a.chunk.js": "/kodutoo3/static/js/2.b56db25a.chunk.js",
+  "static/js/2.b56db25a.chunk.js.map": "/kodutoo3/static/js/2.b56db25a.chunk.js.map",
+  "runtime~main.js": "/kodutoo3/static/js/runtime~main.c3ea9370.js",
+  "runtime~main.js.map": "/kodutoo3/static/js/runtime~main.c3ea9370.js.map",
+  "static/media/pilt1.jpg": "/kodutoo3/static/media/pilt1.9195c1d0.jpg",
+  "static/media/pilt2.jpg": "/kodutoo3/static/media/pilt2.360d5470.jpg",
+  "static/media/pilt3.jpg": "/kodutoo3/static/media/pilt3.0d792dc8.jpg",
+  "static/css/main.ffb43444.chunk.css.map": "/kodutoo3/static/css/main.ffb43444.chunk.css.map",
+  "index.html": "/kodutoo3/index.html",
+  "precache-manifest.3d5ccc3a276b3a7fb9e95e2aa484e8d1.js": "/kodutoo3/precache-manifest.3d5ccc3a276b3a7fb9e95e2aa484e8d1.js",
+  "service-worker.js": "/kodutoo3/service-worker.js"
 }
