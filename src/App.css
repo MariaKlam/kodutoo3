@@ -1,0 +1,36 @@
+.konteiner {
+  display: flex;
+  padding-left: 80px;
+  justify-content: center;
+  gap: 50px;
+  margin-top: 100px;
+  margin-left: 200px;
+  margin-right: 200px;
+  margin-bottom: 100px;
+}
+
+h1 {
+  padding: 10px;
+}
+
+li {
+  list-style-type: none;
+}
+
+.Card {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+img {
+  margin-top: 15px;
+  width: 100%;
+}
+.BookList {
+  background-color: rgb(185, 247, 247);
+  border-radius: 14px;
+  justify-content: center;
+  align-items: center;
+  padding: 30px;
+  max-width: 430px;
+}
