@@ -1,13 +1,17 @@
 import "./Book.css";
+import React from "react";
+import Counter from "./Counter";
 
 function Book(props) {
   return (
     <div className="card-container">
-      <h1>{props.bookName}</h1>
-      <div className="autor">{props.autor}</div>
+      <h2>{props.heading}</h2>
+
+      <div className="autor">{props.author}</div>
+      <div className="aasta">{props.year}</div>
       <div className="kirjeldus">{props.kirjeldus}</div>
       <img src={props.pilt} alt="" />
-      <div className="aasta">{props.aasta}</div>
+      <Counter />
     </div>
   );
 }

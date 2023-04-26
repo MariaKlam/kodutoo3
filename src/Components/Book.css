@@ -3,10 +3,9 @@
   padding: 20px;
   min-width: 350px;
   max-width: 00px;
-  max-height: 830px;
+  max-height: 980px;
   border-radius: 14px;
   box-shadow: 0px 10px 40px hsl(180, 2%, 36%);
-  display: inline-block;
   margin: 20px;
   margin-top: 30px;
 }
@@ -14,4 +13,9 @@
 img {
   width: 100;
   border-radius: 8px;
+}
+
+button {
+  margin: 10px;
+  padding: 6px;
 }

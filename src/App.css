@@ -1,36 +1,53 @@
-.konteiner {
+.container {
   display: flex;
-  padding-left: 80px;
-  justify-content: center;
+
   gap: 50px;
-  margin-top: 100px;
-  margin-left: 200px;
-  margin-right: 200px;
+
   margin-bottom: 100px;
+  margin-top: 50px;
 }
 
-h1 {
+h2 {
   padding: 10px;
 }
 
-li {
-  list-style-type: none;
+h5 {
+  padding: 5px;
+  padding-top: 20px;
 }
 
-.Card {
-  display: flex;
-  flex-wrap: wrap;
+li {
+  margin-top: 15px;
+  font-weight: bold;
 }
 
 img {
   margin-top: 15px;
   width: 100%;
 }
-.BookList {
+.Vasak {
   background-color: rgb(185, 247, 247);
   border-radius: 14px;
-  justify-content: center;
-  align-items: center;
+  margin-top: 50px;
+
+  float: left;
   padding: 30px;
-  max-width: 430px;
+  max-width: 330px;
+}
+
+.Parem {
+  float: right;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 30px;
+}
+
+.addButton,
+.counterButton {
+  border-radius: 6px;
+}
+
+.addButton {
+  margin: 10px;
+  padding: 5px;
 }
